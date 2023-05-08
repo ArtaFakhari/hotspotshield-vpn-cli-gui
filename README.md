@@ -1,6 +1,6 @@
 # Hotspot Shield VPN - on Linux
 
-This is a script for connecting to the Hotspot Shield VPN service in Linux from the command line with a graphical menu.
+This is a script for connecting to the [Hotspot Shield VPN](https://hotspotshield.com) service in Linux from the command line with a graphical menu.
 ![](https://github.com/ArtaFakhari/hotspotshield-vpn-cli-gui/blob/main/HotspotShield-VPN-1.png)
 ![](https://github.com/ArtaFakhari/hotspotshield-vpn-cli-gui/blob/main/HotspotShield-VPN-2.png)
 
