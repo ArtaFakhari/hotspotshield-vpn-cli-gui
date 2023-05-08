@@ -1,9 +1,10 @@
 # Hotspot Shield VPN - on Linux
 
 This is a script for connecting to the Hotspot Shield VPN service in Linux from the command line with a graphical menu.
+![](https://github.com/ArtaFakhari/hotspotshield-vpn-cli-gui/blob/main/HotspotShield-VPN-1.png)
+![](https://github.com/ArtaFakhari/hotspotshield-vpn-cli-gui/blob/main/HotspotShield-VPN-2.png)
 
 ## Installation
-
 1. Make sure you have Hotspot Shield installed on your system and it's in your PATH.
 2. Clone or download this repository to your computer.
 3. Open a terminal and navigate to the directory where you saved the script.
